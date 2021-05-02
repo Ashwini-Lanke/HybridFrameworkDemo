@@ -1,0 +1,10 @@
+2021-04-25 09:35:09,852  INFO [main] TestBase:13 - Initializing Browser
+2021-04-25 09:35:16,539  INFO [main] TestBase:16 - Chrome browser opened
+2021-04-25 09:35:18,738  INFO [main] TestBase:19 - JBK offline website is launched
+2021-04-25 09:35:18,738  INFO [main] TestBase:13 - login to the application
+2021-04-25 09:35:19,345  INFO [main] TestBase:17 - user successfully logged in to the application
+2021-04-25 09:36:04,232  INFO [main] TestBase:13 - Initializing Browser
+2021-04-25 09:36:09,772  INFO [main] TestBase:16 - Chrome browser opened
+2021-04-25 09:36:11,671  INFO [main] TestBase:19 - JBK offline website is launched
+2021-04-25 09:36:11,671  INFO [main] TestBase:13 - login to the application
+2021-04-25 09:36:13,820  INFO [main] TestBase:17 - user successfully logged in to the application
